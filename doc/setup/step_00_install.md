@@ -21,7 +21,3 @@ asdf install elixir latest
 asdf global elixir latest
 elixir -v
 ```
-## Phoenixのインストール
-```bash
-mix archive.install hex phx_new
-```
